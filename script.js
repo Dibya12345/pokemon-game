@@ -1,5 +1,5 @@
 var card_list = document.getElementsByClassName("cards");
-var setLimit = 5;
+var setLimit = 12;
 const api = `https://pokeapi.co/api/v2/pokemon?limit=${setLimit}&offset=0`;
 
 // Display it to the dom
