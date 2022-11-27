@@ -1,0 +1,5 @@
+# Features
+
+1. There will be a screen in which pokemons cards will be displayed 
+ --------> CARD FEATURE WILL BE
+ --------> 

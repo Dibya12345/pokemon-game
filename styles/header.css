@@ -1,0 +1,19 @@
+@import url('http://fonts.cdnfonts.com/css/8bit-wonder');
+header{
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+}
+.header-image{
+    display: flex;
+    justify-content: center;
+    height: 144px;
+}
+header img{
+    width: 300px;
+}
+header h3{
+    font-family: '8BIT WONDER', sans-serif;
+    font-size: 20px;
+    padding: 10px;
+}
